@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZvRRqnL1bcTD52KUGn4u4YRgTIK7HOnMo1kLZqyOiIF8MN1b2Y7Muz73G11zqdibmmdNscmCbI9KJ8kqgmgFBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno.muniz\\Desktop\\TextEditor\\TextEditor\\TextEditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno.muniz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
